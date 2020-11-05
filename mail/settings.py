@@ -25,7 +25,7 @@ SECRET_KEY = os.environ.get('EMAIL_SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://cristiamail.herokuapp.com']
+ALLOWED_HOSTS = ['cristiamail.herokuapp.com']
 
 
 # Application definition
